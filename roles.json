@@ -10,7 +10,7 @@
       "description" : ["Overall coordination and management of the Astropy project, including:"],
       "sub-description" : ["Keeping a large-scale view of the Astropy ecosystem", "Evaluating new affiliated package submissions and review of existing affiliated packages", "Approving or rejecting Astropy APEs", "Evaluating and merging core package pull requests as needed (e.g., for sub-packages without a maintainer)", "Arbitrating disagreements in the core package, including final decisions when otherwise deadlocked", "Maintaining the list of roles and related github permissions", "Managing finances for the project", "Coordinating with NumFOCUS and other funding organizations", "Securing funding for the project via discussions and proposals to funding agencies"]
 }, {
-      "role" : ["Ombudsperson"],
+      "role" : "Ombudsperson",
       "url" : "Ombudsperson",
       "sub-role" : [],
       "lead" : ["Steve Crawford"],
@@ -22,7 +22,7 @@
 }, {
       "role" : "Community engagement coordinator",
       "url" : "Community_engagement_coordinator",
-      "sub-role" : ["Overall", "Twitter", "Facebook", "Slack", "Conferences", "MORE ROLES"],
+      "sub-role" : ["Overall", "Twitter", "Facebook", "Slack", "Conferences"],
       "lead" : ["Kelle Cruz", "Adrian Price-Whelan", "Kelle Cruz", "Tom Robitaille", "Adrian Price-Whelan"],
       "deputy" : ["Unfilled", "Tom Robitaille", "Tom Robitaille, Erik Tollerud", "Unfilled", "Erik Tollerud, Tom Robitaille, Kelle Cruz"],
       "role-head" : ["Community engagement coordinator"],
