@@ -10,7 +10,7 @@
             "pypi_name": "specutils",
             "description": "Affiliated package for analysis tools and basic data types of astronomical spectra.",
             "image": null
-        }
+        },
         {
             "name": "astroquery",
             "maintainer": "Adam Ginsburg and Brigitta Sipocz <adam.g.ginsburg@gmail.com>",
