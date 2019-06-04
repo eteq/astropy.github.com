@@ -27,6 +27,7 @@ $( document ).ready(function(){
     var dataURL = "roles.json";
     request.open('GET', dataURL);
     request.responseType = 'json';
+    request.setRequestHeader("Cache-Control", "max-age=0");
     request.send();
 
     //log error when request gets failed
